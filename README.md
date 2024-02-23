@@ -13,7 +13,7 @@
 　There is a git that can complete it:  
 　-[RadicalMusic-Decryptor](https://github.com/CrunchyRLL/RadicalMusic-Decryptor).  
 ## Thoughts
-　I love firefly.If SHAOJI let firefly die, I will let him CHI BU LIAO DOU ZHE ZOU.  
+　I love firefly.If SHAOJI lets firefly die, I will let him `CHI BU LIAO DOU ZHE ZOU`.  
   
 　In fact, many similar programs already exist.I don't have to finish it.But the scene gets me down.So I don't have little mood to do other things.
 
